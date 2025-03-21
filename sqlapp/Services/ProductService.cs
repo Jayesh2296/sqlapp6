@@ -8,7 +8,7 @@ namespace sqlapp.Services
     public class ProductService
     {
         private static string db_source = "appserver6.database.windows.net";
-        private static string db_user = "sqlusr";
+        private static string db_user = "sqluser";
         private static string db_password = "Pass@1234";
         private static string db_database = "appdb";
 
